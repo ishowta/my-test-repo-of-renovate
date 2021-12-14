@@ -1,0 +1,9 @@
+{
+  "name": "my-test-repo-of-renovate",
+  "dependencies": {
+    "zod": "^3.2.0",
+  },
+  "devDependencies": {
+    "standard-version": "^9.3.1",
+  },
+}
