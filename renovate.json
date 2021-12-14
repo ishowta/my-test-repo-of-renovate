@@ -6,7 +6,8 @@
     ":prConcurrentLimit10",
     "group:allNonMajor",
     ":timezone(Asia/Tokyo)",
-    ":preserveSemverRanges"
+    ":preserveSemverRanges",
+    ":disableDependencyDashboard"
   ],
   "labels": ["dependencies"],
   "dependencyDashboard": true
