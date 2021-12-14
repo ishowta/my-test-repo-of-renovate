@@ -2,13 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/7af10d672c589013b56fa6128165cfd482d18c4a/src/schemas/json/renovate.json",
   "repositories": ["ishowta/my-test-repo-of-renovate"],
   "extends": [
-    "config:js-app",
-    ":prHourlyLimitNone",
-    ":prConcurrentLimit10",
-    "group:allNonMajor",
-    ":timezone(Asia/Tokyo)",
     ":preserveSemverRanges"
   ],
-  "labels": ["dependencies"],
   "dependencyDashboard": true
 }
