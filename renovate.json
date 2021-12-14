@@ -6,9 +6,9 @@
     ":prHourlyLimitNone",
     ":prConcurrentLimit10",
     "group:allNonMajor",
-    ":timezone(Asia/Tokyo)"
+    ":timezone(Asia/Tokyo)",
+    ":preserveSemverRanges"
   ],
-  "rangeStrategy": "bump",
   "labels": ["dependencies"],
   "dependencyDashboard": true
 }
