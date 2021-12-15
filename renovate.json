@@ -1,5 +1,4 @@
 {
-  "repositories": ["ishowta/my-test-repo-of-renovate"],
   "extends": [
     "config:js-app",
     ":preserveSemverRanges"
